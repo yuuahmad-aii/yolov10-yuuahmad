@@ -1,0 +1,13 @@
+names:
+  - botol-hijau
+  - coca-cola
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: deteksi-defect
+  url: https://universe.roboflow.com/cobayolo-grrbj/deteksi-defect/dataset/1
+  version: 1
+  workspace: cobayolo-grrbj
+test: test\images
+train: train\images
+val: valid\images
